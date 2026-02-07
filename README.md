@@ -1,9 +1,9 @@
 ## 📚 Educational Project
 
-This project was completed as part of University of Arizona Full-Stack Web Development Bootcamp] to demonstrate understanding of specific concepts like: HTML, CSS, & JavaScript.
+This project was completed as part of University of Arizona Full-Stack Web Development Bootcamp] to demonstrate understanding of specific concepts like: HTML, CSS, & JavaScript.<br>
 
-**Status:** Archived - No longer under active development
-**Purpose:** Portfolio demonstration of technical concepts
+**Status:** Archived - No longer under active development<br>
+**Purpose:** Portfolio demonstration of technical concepts<br>
 **Completed:** November 2020
 
 ---
