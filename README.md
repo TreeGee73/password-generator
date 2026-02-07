@@ -1,3 +1,14 @@
+## 📚 Educational Project
+
+This project was completed as part of [University of Arizona Full-Stack Web Development Bootcamp] 
+to demonstrate understanding of [specific concepts like: REST APIs, MongoDB, React state management, etc.].
+
+**Status:** Archived - No longer under active development
+**Purpose:** Portfolio demonstration of technical concepts
+**Completed:** November 2020
+
+---
+
 # password-generator
 
 The purpose of this project is to create an application that an employee can use to generate a random password based on criteria they’ve selected. This sort of application or web page is commonly in use on secure websites so having an understanding of how to build and execute such an app is important.
