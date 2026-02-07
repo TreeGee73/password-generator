@@ -1,7 +1,6 @@
 ## 📚 Educational Project
 
-This project was completed as part of [University of Arizona Full-Stack Web Development Bootcamp] 
-to demonstrate understanding of [specific concepts like: REST APIs, MongoDB, React state management, etc.].
+This project was completed as part of [University of Arizona Full-Stack Web Development Bootcamp] to demonstrate understanding of specific concepts like: HTML, CSS, & JavaScript.
 
 **Status:** Archived - No longer under active development
 **Purpose:** Portfolio demonstration of technical concepts
