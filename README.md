@@ -17,6 +17,7 @@ This project was completed as part of University of Arizona Full-Stack Web Devel
   * [Usage](#usage)
   * [Technology](#technology)
   * [Images / Demo Video](#images--demo-video)
+  * [Credits](#credits)
   * [Questions / Contact Details](#questions--contact-details)
 
 ---
@@ -89,12 +90,12 @@ The application validates all inputs and generates a secure random password base
 
 ---
 
-## Questions / Contact Details
-
-If you have any questions about this project, please visit my GitHub profile at [TreeGee73](https://github.com/TreeGee73).
-
----
-
 ## Credits
 
 Background image is a free-to-use image obtained from Pexels.com.
+
+---
+
+## Questions / Contact Details
+
+If you have any questions about this project, please visit my GitHub profile at [TreeGee73](https://github.com/TreeGee73).
